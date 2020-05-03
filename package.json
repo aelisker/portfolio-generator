@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "Profile Generator to learn Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app \"Name\" \"Github Name\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelisker/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aelisker/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/aelisker/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
+}
